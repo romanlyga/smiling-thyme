@@ -12,7 +12,7 @@ intro_actions:
     style: secondary
   - label: Learn More
     url: /about
-    style: secondary
+    style: icon
   - label: lorem-ipsum
     url: '#'
     style: link
